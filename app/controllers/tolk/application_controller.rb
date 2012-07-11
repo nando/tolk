@@ -1,7 +1,5 @@
-require 'tolk/application_controller'
-
 module Tolk
-  class ApplicationController < ActionController::Base
+  class ApplicationController < ::ApplicationController
     helper :all
     protect_from_forgery
 

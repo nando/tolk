@@ -3,7 +3,7 @@
 
 [![Dependency Status](https://gemnasium.com/tolk/tolk.png?travis)](https://gemnasium.com/tolk/tolk)
 
-This is now the official tolk repository.
+This is a fork of the [the official tolk repository](https://github.com/tolk/tolk) to make it a semi-isolated engine (see [this post](http://bibwild.wordpress.com/2012/05/10/the-semi-isolated-rails-engine) for more info about semi-isolated engines).
 
 Tolk is a Rails 3 engine designed to facilitate the translators doing the dirty work of translating your application to other languages.
 
